@@ -39,10 +39,10 @@ Had difficulties getting the right proportions for the movie posters. I auto-res
 ### App Walkthrough GIF
 
 Required:
-<img src="http://g.recordit.co/sKGZsOBBxf.gif" width=250><br>
 
-Bonus:
-<img src="http://g.recordit.co/MqVsMOhywE.gif" width=250><br>
+<img src = "http://g.recordit.co/aq57hWFSTD.gif" width = 250><br>
+
+
 
 
 ### Notes
